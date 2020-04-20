@@ -1,0 +1,133 @@
+.navbar-light .navbar-brand{
+color: white;
+}
+.my-navbar {
+padding: 0;
+}
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(252, 107, 24);
+    color: rgb(238, 237, 237);
+    width: 100vw;
+    height: 40px;
+}
+.rotate {
+    width: 55px;
+    height: 55px;
+    transform: rotate(-20deg);
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    font-size: 12px;
+    z-index: 1;
+}
+.span {
+font-weight: bold;
+}
+.myclass {
+    box-sizing: border-box;
+    margin: 0;
+}
+.second-navbar{
+    background-color: rgb(0, 225, 255);
+    
+}
+.container1 {
+    padding: 0 50px;
+}
+.middle-text {
+    color: azure;
+    text-align: center;
+    font-size: 25px;
+    padding: 0%;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.circles {
+    background-color: rgb(0, 183, 255);
+    padding: 50px 0 100px;
+}
+.business {
+    font-weight: 900;
+}
+.punct-line {
+    border-top: 5px solid rgb(82, 82, 82);
+    border-style: dashed;
+    margin-bottom: -3rem;
+}
+.container {
+    margin-bottom: 70px;
+}
+.c-title {
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.benefits {
+    background-color: coral;
+    color: white;
+    padding-bottom: 100%;
+}
+.container2 {
+    text-align: center;
+    color: white;
+}
+.lightbulb > i.fas.fa-lightbulb {
+    width: 2em;
+    height: 1em;
+    border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+    overflow: hidden;
+    background: coral;
+    margin-top: -70px;
+    padding-top: 5px;
+    font-size: 100px;
+}
+.media-body {
+    margin-top: -40px;
+    text-align: justify;						 
+	text-align-last: justify;
+}
+.row {
+    margin-right: -260px;
+    margin-left: 40px;
+}
+.media-body-list {
+    display: flex;
+    justify-content: flex-start;
+}
+.media-body-list > p {
+ line-height: 24px;
+ margin-left: 15px;
+}
+.media-body-left {
+    align-items: center;
+}
+.media-body-left-content {
+    padding: 35px 0;
+}
+.media-body-left-content > p {
+    font-size: 12px;
+}
+.media-body-right > img {
+    width: 500px;
+}
+.afewwords {
+    background-color: rgb(36, 33, 28);
+    padding-bottom: 75px;
+    text-align: center;
+    color: white;
+}
+.logo > i.far.fa-calendar-check {
+    padding: 30px;
+    border-radius: 100%;
+    background-color: rgb(109, 180, 246);
+    margin: 0 15px;
+    font-size: 36px;
+    background: rgb(36, 33, 28);
+    
+}
